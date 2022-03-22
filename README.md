@@ -7,3 +7,5 @@ ffc.sql contains all the database files. Name the database as ffc or you change 
 the root directory of this project should stick to the name ffc. Because most of the files are linked with respect to that URL .
 
 It's the atmoic light weight version. 
+
+dedicated to college students who needs this ;)
